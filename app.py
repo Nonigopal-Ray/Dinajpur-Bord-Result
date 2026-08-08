@@ -60,7 +60,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<h1>🎓 Dinajpur Board Result check with Student Name</h1>", unsafe_allow_html=True)
-st.markdown("<div class='developer-badge'>✨ App Developed by: Nonigopal Ray ✨</div>", unsafe_allow_html=True)
+st.markdown("<div class='developer-badge'>✨ App Developed by: <a href"https://www.facebook.com/nonigopalrays">Nonigopal Ray</a> ✨</div>", unsafe_allow_html=True)
 st.write("---")
 
 # ---------------------------------------------------------
@@ -617,4 +617,4 @@ if 'df_results' in st.session_state and not st.session_state['df_results'].empty
 
 # Footer Developer Credit
 st.write("---")
-st.markdown("<p style='text-align: center; color: #757575;'><b>Dinajpur Board SSC Result Processing System</b><br>Designed & Developed by <b>Nonigopal Ray</b></p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #757575;'><b>Dinajpur Board SSC Result Processing System</b><br>Designed & Developed by <b><a href="https://www.facebook.com/nonigopalrays">Nonigopal Ray</a></b></p>", unsafe_allow_html=True)
