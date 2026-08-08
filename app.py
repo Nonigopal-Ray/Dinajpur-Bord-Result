@@ -617,4 +617,4 @@ if 'df_results' in st.session_state and not st.session_state['df_results'].empty
 
 # Footer Developer Credit
 st.write("---")
-st.markdown("<p style='text-align: center; color: #757575;'><b>Dinajpur Board SSC Result Processing System</b><br>Designed & Developed by <b><a href="https://www.facebook.com/nonigopalrays">Nonigopal Ray</a></b></p>", unsafe_allow_html=True)
+st.markdown('<p style="text-align: center; color: #757575;"><b>Dinajpur Board SSC Result Processing System</b><br>Designed & Developed by <b><a href="https://www.facebook.com/nonigopalrays">Nonigopal Ray</a></b></p>', unsafe_allow_html=True)
