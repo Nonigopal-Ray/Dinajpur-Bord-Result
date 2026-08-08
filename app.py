@@ -60,7 +60,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<h1>🎓 Dinajpur Board Result check with Student Name</h1>", unsafe_allow_html=True)
-st.markdown('<div class="developer-badge">✨ App Developed by: <a href"https://www.facebook.com/nonigopalrays">Nonigopal Ray</a> ✨</div>', unsafe_allow_html=True)
+st.markdown('<div class="developer-badge">✨ App Developed by: <a href="https://www.facebook.com/nonigopalrays">Nonigopal Ray</a> ✨</div>', unsafe_allow_html=True)
 st.write("---")
 
 # ---------------------------------------------------------
